@@ -1,0 +1,11 @@
+Flask
+python-dotenv
+requests
+Pillow
+numpy
+inference-sdk
+openai
+torch
+torchvision
+opencv-python
+spotipy
